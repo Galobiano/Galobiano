@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## I’m a passionate Frontend Developer with experience in React.js, JavaScript (ES6+), and modern UI frameworks. I enjoy creating responsive, user-friendly web applications and continuously learning new technologies to improve my skills. I collaborate well with teams and contribute to building projects that are both efficient and visually appealing.
+
 <!--
 **Galobiano/Galobiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
